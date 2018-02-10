@@ -10,7 +10,9 @@
 
 # Requirements
 -NetBeans IDE: https://netbeans.org/
+
 -Java JDK: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 -Java JRE: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
 #License 
