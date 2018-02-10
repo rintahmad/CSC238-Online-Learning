@@ -1,0 +1,12 @@
+# NetBeans specific
+nbproject/private/
+build/
+src/music.wav
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Project specific
+PasswData.txt
+UserRecords.txt
